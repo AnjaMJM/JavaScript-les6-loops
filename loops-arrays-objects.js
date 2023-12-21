@@ -9,6 +9,8 @@ const scores = [
     {name: 'Rianne', score: 66, grade: null}
 ];
 
+for ( let i=0; i > scores.length; i++)
+
 // Verwachtte uitkomsten:
 // 83
 // 77
